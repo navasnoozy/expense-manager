@@ -1,0 +1,30 @@
+{
+  "name": "expense-manager",
+  "version": "1.0.0",
+  "description": "a super advanced expense manager ",
+  "keywords": [
+    "expense",
+    "manager",
+    "expense",
+    "tracker",
+    "money",
+    "manager",
+    "income",
+    "tracker"
+  ],
+  "homepage": "https://github.com/navasnoozy/expense-manager#readme",
+  "bugs": {
+    "url": "https://github.com/navasnoozy/expense-manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/navasnoozy/expense-manager.git"
+  },
+  "license": "ISC",
+  "author": "navasnoozy",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
